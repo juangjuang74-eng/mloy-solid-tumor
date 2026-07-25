@@ -1,4 +1,4 @@
-# mLOY and Solid Tumour Risk - Pipeline Reproduction
+# mLOY Solid Tumour Risk - Pipeline Reproduction
 
 A methodological reproduction of:
 
